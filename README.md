@@ -1,2 +1,2 @@
 # Thesis
-Thesis of my project at IIT Madras
+Dual Degree thesis at IIT madras(Final year Project)
